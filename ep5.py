@@ -1,4 +1,4 @@
-#naming variables
+# naming variables
 
 '''
 1. allows alphanumerics and symbols
@@ -7,8 +7,8 @@
 4. variables are case-sensitive
 '''
 
-a=10
-a1="Moopz-Dev"
-_a22e="Begins with lodash"
-_A22E="case sensitive"
+a = 10
+a1 = "Moopz-Dev"
+_a22e = "Begins with lodash"
+_A22E = "case sensitive"
 print(a1)
