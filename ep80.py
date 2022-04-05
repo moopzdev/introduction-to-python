@@ -7,7 +7,10 @@ phoneBook = {"191": "police", "1112": "pizza",
 def searchNumber(message):
     for key, value in phoneBook.items():
         if value == message:
-            print("Dial:", key, "for", value)
+            return print("Dial:", key, "for", value)
+
+    return print("No data found.")
 
 
-searchNumber("Moo")
+message = input("Input a phonebook entry: ")
+searchNumber(message)
