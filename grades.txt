@@ -1,0 +1,5 @@
+studentid:S01	score:70	grade:B
+studentid:S02	score:73	grade:B
+studentid:S03	score:80	grade:A
+studentid:S04	score:100	grade:A
+studentid:S05	score:77	grade:B
